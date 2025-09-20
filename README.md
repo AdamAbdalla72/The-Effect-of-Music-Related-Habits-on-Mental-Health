@@ -83,9 +83,9 @@ Tools
 
 Insights
 
-•	Lofi music has the highest average in the genres effect on mental health variables by 5.6 for Insomnia, 6.6 for Depression, and 3.4 for OCD.
-•	NO strong correlation was found between music and any mental health variables and most of them were not significant. The strongest correlation was between listening hours per day and Insomnia by 0.14.
-•	Listeners of Gospel music showed a more healthy mental health compared to other genres. The averages of mental health variables were 0.3 for OCD, 4.8 for anxiety, 2.6 for depression, and 5.3 for Insomnia. And these results could be attributed to Gospel music’s spiritual load.
+- Lofi music has the highest average in the genres effect on mental health variables by 5.6 for Insomnia, 6.6 for Depression, and 3.4 for OCD.
+- NO strong correlation was found between music and any mental health variables and most of them were not significant. The strongest correlation was between listening hours per day and Insomnia by 0.14.
+- Listeners of Gospel music showed a more healthy mental health compared to other genres. The averages of mental health variables were 0.3 for OCD, 4.8 for anxiety, 2.6 for depression, and 5.3 for Insomnia. And these results could be attributed to Gospel music’s spiritual load.
 
 
 
