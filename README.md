@@ -2,11 +2,11 @@
 Date: 2025/8/27
 
 
-Summary
+# Summary
 
 This project investigates the potential relationship between music listening habits and mental health. The analysis was conducted using a dataset sourced from Kaggle, leveraging MySQL for data preparation and exploratory analysis, Python for statistical correlation, and Power BI for visualization. The findings indicate either no correlation or a very weak correlation between music-related factors and the mental health variables.
 
-Methodology
+# Methodology
 
 1.1. Data Source & Preparation
 The dataset, sourced from Kaggle, contains survey responses about mental health status and music habits. including indicators for depression, anxiety, OCD, and insomnia. 
@@ -74,14 +74,14 @@ The aggregated data from MySQL and Python was imported into Power BI to create a
 - Cards: Showing the total number of the survey takers, the average of the age, the average of the listening hours per day among the sample, and the average of the mental health status (on a scale from 0 to 10).
 - Refresh Button: For resting all slicers.
 
-Tools
+# Tools
 
-* MYSQL was used for data cleaning and exploratory data analysis (EDA).
-# Python was used for aggregating the correlation.
-@ Power BI was used for visualization and dashboard creation.
-$ Power Point was used for creating the visualization backgroung.
+- MYSQL was used for data cleaning and exploratory data analysis (EDA).
+- Python was used for aggregating the correlation.
+- Power BI was used for visualization and dashboard creation.
+- Power Point was used for creating the visualization backgroung.
 
-Insights
+# Insights
 
 - Lofi music has the highest average in the genres effect on mental health variables by 5.6 for Insomnia, 6.6 for Depression, and 3.4 for OCD.
 - NO strong correlation was found between music and any mental health variables and most of them were not significant. The strongest correlation was between listening hours per day and Insomnia by 0.14.
@@ -90,6 +90,6 @@ Insights
 
 
 
-Conclusion
+# Conclusion
 
 This analysis investigated the correlation between music listening habits and mental health. While the survey data captured showed reported effects on mood, the quantitative analysis revealed no statistically significant strong correlations. The strongest relationship identified was a very weak positive correlation between listening hours and insomnia (r=0.14). Consequently, we conclude that while music may exert a noticeable short-term influence on mood, its long-term effect on mental health conditions appears to be weak to non-existent.
