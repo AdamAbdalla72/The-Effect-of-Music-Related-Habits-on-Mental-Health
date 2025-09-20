@@ -5,7 +5,9 @@ Date: 2025/8/27
 Summary
 
 This project investigates the potential relationship between music listening habits and mental health. The analysis was conducted using a dataset sourced from Kaggle, leveraging MySQL for data preparation and exploratory analysis, Python for statistical correlation, and Power BI for visualization. The findings indicate either no correlation or a very weak correlation between music-related factors and the mental health variables.
+
 Methodology
+
 1.1. Data Source & Preparation
 The dataset, sourced from Kaggle, contains survey responses about mental health status and music habits. including indicators for depression, anxiety, OCD, and insomnia. 
 1.2. Date Cleaning
