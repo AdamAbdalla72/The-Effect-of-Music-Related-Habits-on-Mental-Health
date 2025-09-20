@@ -76,10 +76,10 @@ The aggregated data from MySQL and Python was imported into Power BI to create a
 
 Tools
 
-MYSQL was used for data cleaning and exploratory data analysis (EDA).
-Python was used for aggregating the correlation.
-Power BI was used for visualization and dashboard creation.
-Power Point was used for creating the visualization backgroung.
+- MYSQL was used for data cleaning and exploratory data analysis (EDA).
+- Python was used for aggregating the correlation.
+- Power BI was used for visualization and dashboard creation.
+- Power Point was used for creating the visualization backgroung.
 
 Insights
 
