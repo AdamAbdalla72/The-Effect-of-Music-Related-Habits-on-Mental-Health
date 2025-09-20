@@ -67,12 +67,12 @@ Note: Null values were replaced by BPM’s average.
 4. Data visualization
    
 The aggregated data from MySQL and Python was imported into Power BI to create an interactive dashboard. The dashboard includes:
-> Area chart: showing the effect different music genres on different metal health variables.
-> Line chart: showing the effect of long listening hours on different mental health variables. 
-> pie chart: representing the percentage of people that are observing mental health effect due to the music effect.
-> Slicer: allowing breakdown by age and the usage of instruments.
-> Cards: Showing the total number of the survey takers, the average of the age, the average of the listening hours per day among the sample, and the average of the mental health status (on a scale from 0 to 10).
-> Refresh Button: For resting all slicers.
+- Area chart: showing the effect different music genres on different metal health variables.
+- Line chart: showing the effect of long listening hours on different mental health variables. 
+- pie chart: representing the percentage of people that are observing mental health effect due to the music effect.
+- Slicer: allowing breakdown by age and the usage of instruments.
+- Cards: Showing the total number of the survey takers, the average of the age, the average of the listening hours per day among the sample, and the average of the mental health status (on a scale from 0 to 10).
+- Refresh Button: For resting all slicers.
 
 Tools
 
